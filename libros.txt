@@ -2,4 +2,8 @@ El quijote
 n1984
 Cien años de soledad
 Berserk
+<<<<<<< HEAD
 El señor de los anillos 
+=======
+1984
+>>>>>>> cb2f8fd (Nuevo libro en el clon)
